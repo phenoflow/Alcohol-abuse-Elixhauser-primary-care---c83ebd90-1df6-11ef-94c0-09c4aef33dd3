@@ -1,0 +1,132 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-remission---primary.py
+inputModule3:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-tremens---primary.py
+inputModule4:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-induced---primary.py
+inputModule5:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-counselling---primary.py
+inputModule6:
+  class: File
+  path: python/episodic-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-korsakov---primary.py
+inputModule8:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-dependence---primary.py
+inputModule10:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-hallucinosis---primary.py
+inputModule11:
+  class: File
+  path: python/acute-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/deterrent-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-community---primary.py
+inputModule14:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/harmful-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule16:
+  class: File
+  path: python/amnestic-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/adverse-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-damage---primary.py
+inputModule19:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-extended---primary.py
+inputModule20:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-paranoia---primary.py
+inputModule21:
+  class: File
+  path: python/continuous-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-treatment---primary.py
+inputModule23:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-hepatitis---primary.py
+inputModule24:
+  class: File
+  path: python/chronic-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-consumptn---primary.py
+inputModule26:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-dipsomania---primary.py
+inputModule27:
+  class: File
+  path: python/mental-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-drinker---primary.py
+inputModule29:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-detoxification---primary.py
+inputModule30:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-withdrawal---primary.py
+inputModule31:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-liver---primary.py
+inputModule32:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-intoxication---primary.py
+inputModule33:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-brain---primary.py
+inputModule34:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-dementium---primary.py
+inputModule35:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-monitoring---primary.py
+inputModule36:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-rehabilitation---primary.py
+inputModule37:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-delirium---primary.py
+inputModule38:
+  class: File
+  path: python/nondependent-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-alcoholism---primary.py
+inputModule40:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-addiction---primary.py
+inputModule41:
+  class: File
+  path: python/brief-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule42:
+  class: File
+  path: python/other-alcohol-abuse-elixhauser-primary-care---primary.py
+inputModule43:
+  class: File
+  path: python/alcohol-abuse-elixhauser-primary-care-state---primary.py
+inputModule44:
+  class: File
+  path: python/output-cases.py
